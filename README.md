@@ -13,9 +13,10 @@ Technology of art, by art, for art.
 
 A Rust GUI crate with a Vue-like Elm architecture, designed for frame-by-frame control.
 
-### [wgfont(working title)](https://github.com/helgev-traP/wgfont)
+### [Suzuri](https://github.com/helgev-traP/Suzuri) [![crates.io](https://img.shields.io/crates/v/suzuri)](https://crates.io/crates/suzuri) [![Docs.rs](https://docs.rs/suzuri/badge.svg)](https://docs.rs/suzuri)
 
 A consistent text rendering crate.
+
 
 ### [Synapse](https://github.com/helgev-traP/Synapse-prototype)
 
