@@ -3,6 +3,7 @@
 <img height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=helgev-traP&theme=dracula" /><img height="150px" src="https://github-readme-stats.trap.show/api/top-langs/?username=helgev-traP&layout=compact&theme=radical&langs_count=6" />
 
 Technology of art, by art, for art.
+God is in the details.
 
 - Institute of Science Tokyo
 - [traP](https://trap.jp)
