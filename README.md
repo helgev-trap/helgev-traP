@@ -9,6 +9,7 @@ Technology of art, by art, for art.
 God is in the details.
 
 /// Institute of Science Tokyo ///
+
 /// [traP](https://trap.jp) ///
 
 </div>
