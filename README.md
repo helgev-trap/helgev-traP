@@ -22,6 +22,10 @@ Compatible with hot reloading.
 
 ## Working on
 
+### [AudioGraph](https://github.com/helgev-in-arcana/audio-graph)
+
+A node-based Instrument / Effect plugin for VST3 and CLAP plugins.
+
 ### [matcha](https://github.com/helgev-in-arcana/matcha)
 
 A Rust GUI crate with a Vue-like Elm architecture, designed for frame-by-frame control.
